@@ -1,0 +1,6 @@
+hola que kilombo, esto esta joya para aprender!
+<<<<<<< HEAD
+dsdscdsc
+=======
+hola hoy es lunes
+>>>>>>> master
